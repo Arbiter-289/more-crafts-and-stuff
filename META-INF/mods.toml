@@ -10,6 +10,7 @@ mods = [
 		description = 'Add some crafts using many_more_ores_and_crafts's ores mod.',
 		logoFile = 'pack.png',
 		authors = 'Bmo_289',
-		displayURL = 'https://modrinth.com'
+		displayURL = 'https://modrinth.com',
+		issueTrackerURL = 'https://github.com/Arbiter-289/more-crafts-and-stuff/issues'
 	},
 ]

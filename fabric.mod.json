@@ -8,7 +8,8 @@
         "Bmo_289"
     ],
     "contact": {
-        "homepage": "https://modrinth.com"
+        "homepage": "https://modrinth.com",
+        "sources": "https://github.com/Arbiter-289/more-crafts-and-stuff"
     },
     "license": "LicenseRef-All-Rights-Reserved",
     "icon": "icon.png",
