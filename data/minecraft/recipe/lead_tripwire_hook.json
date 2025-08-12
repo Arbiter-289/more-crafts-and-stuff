@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "item": "many_more_ores_and_crafts:lead_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "I  ",
+    "S  ",
+    "P  "
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:tripwire_hook"
+  }
+} 

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "transportation",
+  "key": {
+    "I": {
+      "item": "many_more_ores_and_crafts:lead_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "I I",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:minecart"
+  }
+}

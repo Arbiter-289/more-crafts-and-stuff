@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "many_more_ores_and_crafts:tungsten_ingot"
+    },
+    "B": {
+      "item": "many_more_ores_and_crafts:tungsten_block"
+    }
+  },
+  "pattern": [
+    "BBB",
+    " I ",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:anvil"
+  }
+}

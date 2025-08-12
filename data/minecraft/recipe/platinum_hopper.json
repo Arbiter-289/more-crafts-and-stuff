@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "I": {
+      "item": "many_more_ores_and_crafts:platinum_ingot"
+    }
+  },
+  "pattern": [
+    "I I",
+    "ICI",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:hopper"
+  }
+}

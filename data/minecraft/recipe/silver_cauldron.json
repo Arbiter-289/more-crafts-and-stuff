@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "many_more_ores_and_crafts:silver_ingot"
+    }
+  },
+  "pattern": [
+    "I I",
+    "I I",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:cauldron"
+  }
+}

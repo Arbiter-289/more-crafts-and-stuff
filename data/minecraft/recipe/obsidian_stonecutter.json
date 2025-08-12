@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "I": {
+      "item": "many_more_ores_and_crafts:obsidian_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    " I ",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stonecutter"
+  }
+}

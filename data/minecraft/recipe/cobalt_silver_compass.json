@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "many_more_ores_and_crafts:cobalt_ingot"
+    },
+    "I": {
+      "item": "many_more_ores_and_crafts:silver_ingot"
+    }
+  },
+  "pattern": [
+    " I ",
+    "ICI",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:compass"
+  }
+}

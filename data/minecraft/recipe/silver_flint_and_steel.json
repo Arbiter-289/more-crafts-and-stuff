@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "many_more_ores_and_crafts:silver_ingot"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    }
+  },
+  "pattern": [
+    "IF ",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:flint_and_steel"
+  }
+}

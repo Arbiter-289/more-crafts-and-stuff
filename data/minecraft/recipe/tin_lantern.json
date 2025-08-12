@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "T": {
+      "item": "minecraft:torch"
+    },
+    "N": {
+      "item": "many_more_ores_and_crafts:tin_nugget"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "NTN",
+    "NNN"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:lantern"
+  }
+}

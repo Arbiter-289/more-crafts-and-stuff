@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "many_more_ores_and_crafts:platinum_ingot"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "PIP",
+    "PPP",
+    " P "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:shield"
+  }
+}

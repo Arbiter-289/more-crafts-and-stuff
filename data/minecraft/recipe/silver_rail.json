@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "many_more_ores_and_crafts:silver_ingot"
+    }
+  },
+  "pattern": [
+    "I I",
+    "ISI",
+    "I I"
+  ],
+  "result": {
+    "count": 16,
+    "id": "minecraft:rail"
+  }
+}

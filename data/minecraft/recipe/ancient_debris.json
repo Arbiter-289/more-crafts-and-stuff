@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "many_more_ores_and_crafts:raw_adamantite_block"
+    },
+    {
+      "item": "many_more_ores_and_crafts:raw_orichalcum_block"
+    },
+    {
+      "item": "many_more_ores_and_crafts:raw_obsidian_block"
+    },
+    {
+      "item": "many_more_ores_and_crafts:raw_titanium_block"
+    },
+    {
+      "item": "many_more_ores_and_crafts:raw_mythril_block"
+    },
+    {
+      "item": "many_more_ores_and_crafts:raw_palladium_block"
+    },
+    {
+      "item": "many_more_ores_and_crafts:raw_platinum_block"
+    },
+    {
+      "item": "many_more_ores_and_crafts:raw_tungsten_block"
+    },
+    {
+      "item": "many_more_ores_and_crafts:raw_cobalt_block"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:ancient_debris"
+  }
+}

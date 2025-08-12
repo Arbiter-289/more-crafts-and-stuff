@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "minecraft:redstone_torch"
+    },
+    "I": {
+      "item": "many_more_ores_and_crafts:silver_ingot"
+    }
+  },
+  "pattern": [
+    "ISI",
+    "IRI",
+    "ISI"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:activator_rail"
+  }
+}

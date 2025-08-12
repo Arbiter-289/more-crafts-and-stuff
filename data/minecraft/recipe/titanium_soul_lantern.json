@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "T": {
+      "item": "minecraft:soul_torch"
+    },
+    "N": {
+      "item": "many_more_ores_and_crafts:titanium_nugget"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "NTN",
+    "NNN"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:soul_lantern"
+  }
+}

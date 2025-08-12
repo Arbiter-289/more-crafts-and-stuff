@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "D": {
+      "item": "minecraft:dropper"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "many_more_ores_and_crafts:platinum_ingot"
+    }
+  },
+  "pattern": [
+    "III",
+    "ICI",
+    "RDR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:crafter"
+  }
+}

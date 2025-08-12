@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "many_more_ores_and_crafts:orichalcum_ingot"
+    },
+    "S": {
+      "item": "minecraft:sandstone"
+    },
+    "T": {
+      "item": "minecraft:dune_armor_trim_smithing_template"
+    }
+  },
+  "pattern": [
+    "ITI",
+    "ISI",
+    "III"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:dune_armor_trim_smithing_template"
+  }
+}

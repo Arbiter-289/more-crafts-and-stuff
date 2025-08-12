@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "many_more_ores_and_crafts:mythril_ingot"
+    },
+    "N": {
+      "item": "minecraft:end_stone"
+    },
+    "T": {
+      "item": "minecraft:eye_armor_trim_smithing_template"
+    }
+  },
+  "pattern": [
+    "ITI",
+    "INI",
+    "III"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:eye_armor_trim_smithing_template"
+  }
+}
